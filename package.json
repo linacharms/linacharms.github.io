@@ -1,20 +1,20 @@
 {
-  "name": "devportfolio-template",
-  "version": "1.2.2",
+  "name": "equality-report-site",
+  "version": "0.0.1",
   "description": "",
   "main": "js/scripts.js",
   "scripts": {
     "watch": "gulp watch"
   },
   "keywords": [
-    "portfolio",
-    "personal",
-    "website",
-    "tech",
-    "coding",
-    "dev"
+    "EqualityReport",
+    "Report",
+    "Equality",
+    "LGBTQIA+",
+    "LGBT",
+    "EqualRights"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Ivelina Stancheva",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
